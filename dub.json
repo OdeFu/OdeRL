@@ -1,0 +1,8 @@
+{
+	"name" : "oderl",
+	"description" : "",
+	"authors": ["Olli Aalto <oaalto@gmail.com>"],
+	"license": "MIT",
+	"dependencies" : {
+	}
+}
