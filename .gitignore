@@ -24,3 +24,4 @@ docs/
 *.lst
 /oderl
 /.project
+/dub.selections.json
